@@ -28,7 +28,7 @@ Api
    - [dotenv](https://www.npmjs.com/package/dotenv)
    - [mongoose](https://mongoosejs.com/)
    - [bcrypt](https://www.npmjs.com/package/bcrypt)
-   - [jsonwebtoken] (https://jwt.io/)
+   - [json web token](https://jwt.io/)
 
 2. Dev Dependecies:
    - [nodemon](https://nodemon.io/)
