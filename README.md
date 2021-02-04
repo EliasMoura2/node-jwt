@@ -1,5 +1,5 @@
 # Node-jwt
-Api 
+Api desarrollada con node y protegida con JWT.
 ## Comenzando 🚀
 1. Clonar el proyecto: 
 ```
