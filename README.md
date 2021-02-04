@@ -3,7 +3,7 @@ Api desarrollada con node y protegida con JWT.
 ## Comenzando 🚀
 1. Clonar el proyecto: 
 ```
-  https://github.com/EliasMoura2/app-tasks.git
+  https://github.com/EliasMoura2/node-jwt
 ```
 2. crear un archivo .env con los siguientes datos:
 ```
